@@ -11,7 +11,7 @@ env:
   ZIP_NAME: 'blueline-spb5.210812.002-factory-6390aefc.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
+  REPACK_NAME: 'SGSIA12.zip'
   VERSION: '12'
   upload_action-gh-release: 'true'
   SETUP: 'true'
